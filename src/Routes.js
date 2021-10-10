@@ -56,6 +56,42 @@ export default function Routes(props) {
               /> Thêm sản phẩm
                 </NavLink></button>
               </div>
+              <div className="nav-link">
+              <button
+                  className="btn btn-danger"
+                >
+                <NavLink to="/" activeClassName="active" exact>
+                <img 
+                src="http://tbh.vn/public/upload/featured_images/setting-icon-500x500.png"
+                style={{ width: 30 }}
+                alt="Canvas Logo"
+              />  Tìm hiểu sản phẩm
+                </NavLink> </button>  
+              </div>
+              <div className="nav-link">
+              <button
+                  className="btn btn-danger"
+                >
+                <NavLink to="/" activeClassName="active" exact>
+                <img 
+                src="http://tbh.vn/public/upload/featured_images/setting-icon-500x500.png"
+                style={{ width: 30 }}
+                alt="Canvas Logo"
+              />  Tính năng nâng cao
+                </NavLink> </button>  
+              </div>
+              <div className="nav-link">
+              <button
+                  className="btn btn-danger"
+                >
+                <NavLink to="/" activeClassName="active" exact>
+                <img 
+                src="https://www.clipartmax.com/png/middle/246-2461247_phone-call-icon-clipart-panda-icon-%C4%91i%E1%BB%87n-tho%E1%BA%A1i-di-%C4%91%E1%BB%99ng.png"
+                style={{ width: 30 }}
+                alt="Canvas Logo"
+              />  Hỗ trợ
+                </NavLink> </button>  
+              </div>
             </div>
           </div>
         </div>

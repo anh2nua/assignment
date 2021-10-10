@@ -32,7 +32,7 @@ export default function Product(props) {
               <td >{product.id} </td >
               <td>
                 <Link to={"/product/detail/" + product.id}><img 
-      src="https://cuoixastress.com/wp-content/uploads/2021/06/anh-hot-girl-lanh-lung-9.gif"
+      src="https://lh3.googleusercontent.com/proxy/C-Pu0pMyKFMSrL1y2MwrhtuOUkXX-VObzw7A_Oo80kBzNdlQwPEsfb336dUC2m35LY9eMiTdcRCc1YXiCNQRUHmdZzk8rWRlu1KyVnF66sxfYvPahg"
       style={{ width: 100 }}
       alt="Canvas Logo"
     /><tr>{product.name}</tr></Link>

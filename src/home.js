@@ -2,9 +2,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 export default function Home() {
   return (
     <img
-      src="https://sohanews.sohacdn.com/thumb_w/660/160588918557773824/2021/5/26/photo1621963507381-162196350749198229939.png"
+      src="https://phongvu.vn/cong-nghe/wp-content/uploads/2020/11/119234579_169457918065236_755533166268046471_n-1.jpg"
       className="img-responsive"
-      style={{ width: 1300}, {height : 800}}
+      style={{ width: 1377}}
      
     />
   );

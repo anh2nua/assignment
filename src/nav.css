@@ -1,7 +1,4 @@
-.App {
-    font-family: sans-serif;
-    text-align: center;
-  }
+
   .App {
     margin: auto;
     width: 100%;
@@ -9,9 +6,9 @@
     padding: 10px;
   }
 
-  .App {
+  /* .App {
     text-align: center;
-  }
+  } */
   
   .App-logo {
     height: 40vmin;
